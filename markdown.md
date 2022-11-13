@@ -1,4 +1,69 @@
-# Instruction Markdown
+# Instruction Markdown_1
+**clear - 0**
+__clear - 0__
+
+***King_Athur***
+
+- 1.level -
+- 2.level -
+- 3.level -
+
+*  1level
+*  2level
+*  3level
+
+
+*2222*
+
+~~river~~
+
+# Tron
+
+## Инструкция работы с гит
+
+При первом использовании Git необходимо представиться.  Для этого нужно ввести в терминале 2 команды:
+1.  git config --global user.name “Your_name”
+2.  git config --global user.email ваша почта@example.com
+3.  Можете нажать на стрелку вверх
+
+## 1.  New repository
+command **"git init"**
+
+## 1. Создаем репозиторий
+Чтобы создать репозиторий, используем команду **"git init"**
+1
+
+## 2.  Save file
+**git add** filename
+
+## 2. Сохраняем файлы
+**git add filename** - добавили файл с именем filename
+
+
+## 3.  Comments for file edit
+command **git commit -m** (-a)(-m message)
+## 3. Каждое сохранение нужно зафиксировать комментарием
+Таким образом, Вы указываете, что за информацию Вы фиксируете: git commit -m "text"  
+**-m** - сокращение от message
+##  4.  Log information and file modification history 
+command **git log**
+**exit git log "q"**
+##  5.  Information on git files, and status git
+**git status**
+##  6. transition between modifications
+**git checkout**
+add id log information
+##  7. Return to last modification and resume work
+**git checkout master(name,main....)**
+##  8. view the difference between the saved document and the current one
+посмотреть разницу сохраненного документа и актуальным
+**git diff**
+
+
+
+
+
+# Instruction Markdown_2
 
 ## Выделение текста
 
