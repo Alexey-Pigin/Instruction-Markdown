@@ -31,7 +31,7 @@ _текст курсивом и **полужирным**_
 
 Drop img:
 ![Hello! CAT TOP](CAT.jpg)
-https://mobimg.b-cdn.net/v3/fetch/2c/2c38ec7c72e3d0094f591d6f735a3b8e.jpeg?w=1200&r=0.5625
+![Alt Cat](https://i12.fotocdn.net/s123/19e8071823e2e840/public_pin_l/2810595319.jpg)
  
 ## Ссылки
 
